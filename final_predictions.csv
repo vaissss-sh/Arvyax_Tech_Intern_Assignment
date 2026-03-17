@@ -1,0 +1,121 @@
+id,journal_text,predicted_emotion,predicted_intensity,recommended_action,time_to_act_min,stress_level,previous_day_mood
+10001,woke up feeling more organized mentally. i was more tired than i thought.,focused,3,Maintain momentum. Do not break flow.,30,1,mixed
+10002,started off distracted most of the time. this was better than yesterday.,focused,4,Maintain momentum. Do not break flow.,0,2,mixed
+10003,kinda calm ...,focused,3,Maintain momentum. Do not break flow.,0,5,calm
+10004,after the session i felt able to think straight. my breathing slowed for a moment.,focused,3,Maintain momentum. Do not break flow.,30,3,overwhelmed
+10005,lowkey felt pretty grounded. i had to restart once. ...,neutral,3,Continue current workflow & monitor.,0,5,calm
+10006,"today i was a little better and a little off, but sleep probably affected it.",calm,2,Acknowledge peace. Continue at your own pace.,30,2,neutral
+10007,lowkey felt unable to stay with one thought. mountain visuals made it easier to pause.,restless,3,Take note of your feelings and continue your day.,30,3,calm
+10008,ended up like everything piled up. then my mind wandered again. then it faded again.,restless,3,Take note of your feelings and continue your day.,30,4,mixed
+10009,"for a while i was itchy in my head, but ocean audio was nice.",restless,3,Take note of your feelings and continue your day.,30,4,overwhelmed
+10010,for a while i was more tired than i expected. the rain helped a little. after that i could continue.,overwhelmed,4,Pause & execute 4-7-8 breathing protocol.,0,2,neutral
+10011,"started off like everything piled up, but forest sounds worked for a bit. ...",overwhelmed,4,Pause & execute 4-7-8 breathing protocol.,0,3,neutral
+10012,ok session,restless,3,Take note of your feelings and continue your day.,30,3,neutral
+10013,actually helped,mixed,2,Take note of your feelings and continue your day.,30,3,mixed
+10014,woke up feeling actually able to focus. then my mind wandered again. still not fully there though. ...,focused,3,Maintain momentum. Do not break flow.,30,4,restless
+10015,started off surprisingly okay. i couldn't tell if it was helping at first.,neutral,4,Continue current workflow & monitor.,0,1,mixed
+10016,"lowkey felt just normal, but it took time to click.",restless,4,Physical switch: Take a 10-minute walk or stand up.,0,2,
+10017,by the end i was split between calm and tension. cafe ambience weirdly helped. after that i could continue.,mixed,3,Log a 3-bullet journal to untangle thoughts.,35,2,focused
+10018,"not gonna lie i felt calmer on the surface but still busy underneath, but this was better than yesterday. ...",mixed,3,Log a 3-bullet journal to untangle thoughts.,0,5,focused
+10019,"started off ready to start work, but teh rain helped a little.",overwhelmed,3,Take note of your feelings and continue your day.,30,1,focused
+10020,still off,mixed,4,Log a 3-bullet journal to untangle thoughts.,0,2,overwhelmed
+10021,somehow i felt mentally flooded. i couldn't tell if it was helping at first. still not fully there though.,overwhelmed,3,Take note of your feelings and continue your day.,0,5,neutral
+10022,woke up feeling less tense. i stayed with it anyway.,calm,3,Acknowledge peace. Continue at your own pace.,30,1,calm
+10023,today i was mostly the same. the rain helped a little. that part surprised me.,neutral,3,Continue current workflow & monitor.,30,4,
+10024,not gonna lie i felt okay overall. this was better than yesterday.,neutral,4,Continue current workflow & monitor.,0,4,mixed
+10025,ok session,restless,3,Take note of your feelings and continue your day.,30,4,calm
+10026,"by the end i was unable to come down from the day, but i kept thinking about emails.",overwhelmed,2,Take note of your feelings and continue your day.,30,3,focused
+10027,for a while i was in between. i stayed with it anyway.,mixed,3,Log a 3-bullet journal to untangle thoughts.,30,1,calm
+10028,somehow i felt in between. i had to restart once.,mixed,3,Log a 3-bullet journal to untangle thoughts.,30,1,calm
+10029,honestly i felt mentally flooded. i couldn't tell if it was helping at first.,overwhelmed,3,Take note of your feelings and continue your day.,0,5,neutral
+10030,"honestly i felt more settled, but i couldn't tell if it was helping at first.",focused,3,Maintain momentum. Do not break flow.,30,2,focused
+10031,today i was able to prioritize. sleep probably affected it. that part surprised me. ...,focused,3,Maintain momentum. Do not break flow.,30,2,calm
+10032,"lowkey felt kind of jumpy, but then my mind wandered again.",restless,3,Take note of your feelings and continue your day.,30,4,calm
+10033,"ended up unable to come down from the day, but i stayed with it anyway.",overwhelmed,3,Take note of your feelings and continue your day.,30,4,restless
+10034,"woke up feeling kind of blank, but ocean audio was nice.",neutral,2,Continue current workflow & monitor.,30,4,focused
+10035,woke up feeling able to prioritize. mountain visuals made it easier to pause.,focused,4,Maintain momentum. Do not break flow.,0,1,restless
+10036,honestly i felt all over the place. i kept thinking about emails.,neutral,3,Continue current workflow & monitor.,0,5,mixed
+10037,not much change,calm,2,Acknowledge peace. Continue at your own pace.,0,5,neutral
+10038,"after the session i felt ready to start work, but i was more tired than i thought.",overwhelmed,3,Take note of your feelings and continue your day.,30,2,neutral
+10039,for a while i was not bad but not clear either. i had to restart once.,mixed,3,Log a 3-bullet journal to untangle thoughts.,0,5,overwhelmed
+10040,by the end i was half relaxed half distracted. i couldn't tell if it was helping at first.,mixed,3,Log a 3-bullet journal to untangle thoughts.,30,1,overwhelmed
+10041,woke up feeling still carrying too much. this was better than yesterday.,overwhelmed,4,Pause & execute 4-7-8 breathing protocol.,0,2,overwhelmed
+10042,by the end i was pretty grounded. i stayed with it anyway. then it faded again.,calm,3,Acknowledge peace. Continue at your own pace.,30,1,neutral
+10043,bit restless,restless,3,Take note of your feelings and continue your day.,30,1,neutral
+10044,fine i guess,calm,2,Acknowledge peace. Continue at your own pace.,30,1,
+10045,not gonna lie i felt still mentally busy. it took time to click. that part surprised me.,restless,3,Take note of your feelings and continue your day.,30,1,restless
+10046,"kind of felt able to think straight, but the rain helped a little.",focused,3,Maintain momentum. Do not break flow.,30,1,mixed
+10047,not gonna lie i felt more organized mentally. this was better than yesterday.,focused,3,Maintain momentum. Do not break flow.,30,2,calm
+10048,after the session i felt more at ease. i was more tired than i thought. that part surprised me.,mixed,3,Log a 3-bullet journal to untangle thoughts.,30,3,overwhelmed
+10049,started off still mentally busy. cafe ambience weirdly helped. ...,restless,3,Take note of your feelings and continue your day.,30,2,restless
+10050,"ended up restless even after, but i kept thinking about emails.",restless,3,Take note of your feelings and continue your day.,0,5,
+10051,"after the session i felt less wound up, but then my mind wandered again.",calm,3,Acknowledge peace. Continue at your own pace.,30,1,mixed
+10052,"lowkey felt unable to settle, but my breathing slowed for a moment.",calm,3,Acknowledge peace. Continue at your own pace.,30,2,neutral
+10053,not gonna lie i felt less tense. this was better than yesterday.,focused,3,Maintain momentum. Do not break flow.,30,1,overwhelmed
+10054,not gonna lie i felt mentally flooded. i couldn't tell if it was helping at first.,calm,3,Acknowledge peace. Continue at your own pace.,30,2,restless
+10055,after the session i felt split between calm and tension. this was better than yesterday.,mixed,3,Log a 3-bullet journal to untangle thoughts.,30,3,
+10056,honestly i felt clearer than earlier. forest sounds worked for a bit.,focused,2,Maintain momentum. Do not break flow.,30,3,neutral
+10057,not gonna lie i felt heavy in the chest. it took time to click.,overwhelmed,4,Pause & execute 4-7-8 breathing protocol.,0,2,calm
+10058,started off like everything piled up. cafe ambience weirdly helped. ...,overwhelmed,4,Pause & execute 4-7-8 breathing protocol.,0,1,overwhelmed
+10059,woke up feeling a little better and a little off. i couldn't tell if it was helping at first.,neutral,3,Continue current workflow & monitor.,35,4,neutral
+10060,mind racing,neutral,3,Continue current workflow & monitor.,35,2,calm
+10061,lowkey felt pretty even. my breathing slowed for a moment.,calm,3,Acknowledge peace. Continue at your own pace.,30,3,restless
+10062,"by the end i was more at ease, but i stayed with it anyway.",restless,3,Take note of your feelings and continue your day.,30,4,restless
+10063,by the end i was distracted most of the time. then my mind wandered again.,focused,3,Maintain momentum. Do not break flow.,30,1,overwhelmed
+10064,started off mostly the same. sleep probably affected it.,neutral,3,Continue current workflow & monitor.,30,1,
+10065,"kind of felt steady but nothing major, but it took time to click.",neutral,3,Continue current workflow & monitor.,30,2,neutral
+10066,lowkey felt unable to settle. this was better than yesterday.,restless,3,Take note of your feelings and continue your day.,30,1,mixed
+10067,not gonna lie i felt unable to settle. i stayed with it anyway.,restless,3,Take note of your feelings and continue your day.,30,2,overwhelmed
+10068,for a while i was mentally flooded. then my mind wandered again.,overwhelmed,3,Take note of your feelings and continue your day.,0,5,overwhelmed
+10069,after the session i felt steady but nothing major. then my mind wandered again. then it faded again. ...,neutral,3,Continue current workflow & monitor.,30,2,mixed
+10070,lowkey felt all over teh place. ocean audio was nice. ...,neutral,3,Continue current workflow & monitor.,30,4,focused
+10071,ended up somewhat settled but still uneasy. i had to restart once.,mixed,3,Log a 3-bullet journal to untangle thoughts.,30,4,calm
+10072,"lowkey felt okay overall, but forest sounds worked for a bit.",neutral,3,Continue current workflow & monitor.,30,4,
+10073,by the end i was locked in for a bit. i kept thinking about emails.,focused,3,Maintain momentum. Do not break flow.,0,5,
+10074,started off calmer on the surface but still busy underneath. ocean audio was nice.,mixed,3,Log a 3-bullet journal to untangle thoughts.,0,5,neutral
+10075,started off kind of jumpy. i had to restart once.,restless,4,Physical switch: Take a 10-minute walk or stand up.,0,4,focused
+10076,lowkey felt calmer on teh surface but still busy underneath. tehn my mind wandered again. not sure why but it shifted.,mixed,3,Log a 3-bullet journal to untangle thoughts.,30,4,restless
+10077,by the end i was steady but nothing major. i had to restart once.,neutral,3,Continue current workflow & monitor.,30,2,restless
+10078,"somehow i felt unable to stay with one thought, but my breathing slowed for a moment.",restless,4,"MULTIPLE DAYS RESTLESS! Physical switch: Take a 10-minute walk or stand up. Also, consider discussing with a mentor or taking an extended break.",0,1,restless
+10079,for a while i was distracted most of teh time. i kept thinking about emails.,restless,4,Physical switch: Take a 10-minute walk or stand up.,0,2,calm
+10080,more clear today,calm,3,Acknowledge peace. Continue at your own pace.,30,2,neutral
+10081,kind of felt restless even after. i kept thinking about emails.,restless,3,Take note of your feelings and continue your day.,0,5,overwhelmed
+10082,mind racing,neutral,3,Continue current workflow & monitor.,30,2,neutral
+10083,started off okay overall. ocean audio was nice.,focused,3,Maintain momentum. Do not break flow.,35,3,restless
+10084,after the session i felt drained and behind. then my mind wandered again.,overwhelmed,3,Take note of your feelings and continue your day.,30,4,overwhelmed
+10085,fine i guess,calm,2,Acknowledge peace. Continue at your own pace.,30,2,restless
+10086,"kind of felt mostly the same, but i kept thinking about emails. ...",neutral,3,Continue current workflow & monitor.,35,4,overwhelmed
+10087,kind of felt calmer on the surface but still busy underneath. ocean audio was nice. after that i could continue. ...,mixed,3,Log a 3-bullet journal to untangle thoughts.,30,3,restless
+10088,not gonna lie i felt okay overall. i stayed with it anyway.,neutral,4,Continue current workflow & monitor.,0,2,mixed
+10089,woke up feeling okay overall. my breathing slowed for a moment. ...,calm,4,Acknowledge peace. Continue at your own pace.,0,3,calm
+10090,kind of felt better but not fully okay. it took time to click.,mixed,3,Log a 3-bullet journal to untangle thoughts.,30,1,overwhelmed
+10091,after the session i felt steady but nothing major. it took time to click.,neutral,3,Continue current workflow & monitor.,0,5,focused
+10092,started off like everything piled up. i had to restart once.,overwhelmed,3,Take note of your feelings and continue your day.,30,1,restless
+10093,after the session i felt a little better and a little off. this was better than yesterday. that part surprised me.,neutral,3,Continue current workflow & monitor.,30,1,focused
+10094,kinda calm,focused,4,Maintain momentum. Do not break flow.,0,5,focused
+10095,after teh session i felt more tired than i expected. i couldn't tell if it was helping at first.,mixed,3,Log a 3-bullet journal to untangle thoughts.,30,2,neutral
+10096,still off ...,calm,4,Acknowledge peace. Continue at your own pace.,0,3,neutral
+10097,started off in between. i kept thinking about emails.,mixed,3,Log a 3-bullet journal to untangle thoughts.,35,2,focused
+10098,started off heavy in teh chest. i stayed with it anyway. still not fully tehre though.,overwhelmed,3,Take note of your feelings and continue your day.,0,5,restless
+10099,"started off half relaxed half distracted, but my breathing slowed for a moment. ...",focused,3,Maintain momentum. Do not break flow.,30,4,restless
+10100,started off somewhat settled but still uneasy. i stayed with it anyway.,mixed,3,Log a 3-bullet journal to untangle thoughts.,0,5,focused
+10101,started off more settled. i stayed with it anyway. that part surprised me.,restless,3,Take note of your feelings and continue your day.,30,2,neutral
+10102,lowkey felt unable to come down from the day. the rain helped a little. not sure why but it shifted.,overwhelmed,3,Take note of your feelings and continue your day.,30,3,focused
+10103,kind of felt lighter than before. mountain visuals made it easier to pause.,calm,4,Acknowledge peace. Continue at your own pace.,0,5,focused
+10104,not gonna lie i felt somewhat settled but still uneasy. forest sounds worked for a bit.,mixed,3,Log a 3-bullet journal to untangle thoughts.,0,5,mixed
+10105,ok session,neutral,3,Continue current workflow & monitor.,30,1,restless
+10106,somehow i felt not very different. then my mind wandered again.,neutral,3,Continue current workflow & monitor.,30,3,neutral
+10107,hard to focus,focused,3,Maintain momentum. Do not break flow.,30,2,overwhelmed
+10108,after the session i felt in between. sleep probably affected it.,mixed,3,Log a 3-bullet journal to untangle thoughts.,30,1,calm
+10109,i noticed i was fine i guess. cafe ambience weirdly helped.,neutral,3,Continue current workflow & monitor.,0,5,
+10110,ok session,neutral,3,Continue current workflow & monitor.,0,5,calm
+10111,today i was split between calm and tension. it took time to click.,mixed,3,Log a 3-bullet journal to untangle thoughts.,30,1,
+10112,lowkey felt calmer on the surface but still busy underneath. forest sounds worked for a bit. then it faded again.,mixed,2,Take note of your feelings and continue your day.,30,2,focused
+10113,i noticed i was less tense. i was more tired than i thought.,calm,3,Acknowledge peace. Continue at your own pace.,30,4,calm
+10114,by teh end i was pretty grounded. cafe ambience weirdly helped. ...,calm,3,Acknowledge peace. Continue at your own pace.,30,4,calm
+10115,woke up feeling lighter than before. then my mind wandered again.,calm,3,Acknowledge peace. Continue at your own pace.,0,5,restless
+10116,ended up unable to come down from the day. then my mind wandered again.,overwhelmed,3,Take note of your feelings and continue your day.,30,2,focused
+10117,"somehow i felt pretty grounded, but it took time to click. ...",calm,4,Acknowledge peace. Continue at your own pace.,0,3,overwhelmed
+10118,"started off ready to start work, but i stayed with it anyway.",neutral,3,Continue current workflow & monitor.,30,2,calm
+10119,somehow i felt somewhat settled but still uneasy. i kept thinking about emails.,mixed,4,Log a 3-bullet journal to untangle thoughts.,0,4,neutral
+10120,by the end i was distracted most of the time. i couldn't tell if it was helping at first.,mixed,3,Log a 3-bullet journal to untangle thoughts.,35,4,neutral
